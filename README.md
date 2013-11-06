@@ -1,7 +1,6 @@
-My-Git-Files
-============
+# My-Git-Files
 
-Utils files for git.
+###### Utils files for git.
 
 - .gitignore
 - .hooks
